@@ -30,7 +30,7 @@
 <body>
 
 <div class="converter-card">
-    <h2>USD to ILS Exchange</h2>
+    <h2>MeTA Converter - USD to ILS Exchange</h2>
     <div class="subtitle">Raz's Tomcat 11 Node</div>
     
     <form action="index.jsp" method="POST">
